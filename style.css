@@ -1,0 +1,24 @@
+body {
+  margin:0;
+  padding:0;
+}
+
+nav {
+  background-color:darkred;
+  height:50px;
+  display: flex;
+  justify-content:space-between;
+}
+
+nav a {
+  color:yellow;
+  text-decoration:none;
+  margin: auto;
+}
+nav a:hover {
+  color:orange;
+}
+
+.galeria {
+  width:200px;
+}
